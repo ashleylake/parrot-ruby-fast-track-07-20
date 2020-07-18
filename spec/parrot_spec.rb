@@ -2,4 +2,5 @@
 and returns the phrase
 
 def parrot (phrase = "Squaks")
-  
+  puts phrase
+  returns phrase
